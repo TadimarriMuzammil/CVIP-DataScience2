@@ -1,1 +1,1 @@
-# CVIP-DataScience2
+This project is about the Diabetes Prediction.It is classification problem where we need to predict the output that whether a person with the given data is diabetic or not.The model used in the project is Decision Tree Classifier.The features or the independent variables used  for prediction are Pregnancies,Glucose,BloodPressure,SkinThickness, Insulin,BMI,DiabetesPedigreeFunction,Age.
